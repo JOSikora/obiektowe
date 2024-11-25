@@ -1,1 +1,2 @@
-# obiektowe
+# programowanie obiektowe
+python
